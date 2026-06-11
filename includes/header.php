@@ -71,11 +71,8 @@ $current_page = basename($_SERVER['PHP_SELF']);
       Contact
     </a>
   </li>
-</ul>
-        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-      </nav>
 
-    <div class="auth-buttons">
+  <li class="auth-buttons">
 
 <?php if (isset($_SESSION['user_id'])): ?>
 
@@ -98,9 +95,13 @@ $current_page = basename($_SERVER['PHP_SELF']);
     </a>
 
 <?php endif; ?>
+  </li>
+</ul>
 
-</div>
-     
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+   
 
 
     </div>

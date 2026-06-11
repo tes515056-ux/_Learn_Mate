@@ -37,7 +37,7 @@
                             </h3>
 
                             <h1 class="display-4 fw-bold" style="color:#10bc69;">
-                                $0
+                                0 MMK
                             </h1>
 
                             <p class="text-muted">
@@ -121,13 +121,13 @@
                                 Premium
                             </h3>
 
-                            <h1 class="display-4 fw-bold " style="color:#10bc69;">
-                                $4.99
-                            </h1>
+                            <h1 class="display-4 fw-bold" style="color:#10bc69;">
+    20,000 MMK
+</h1>
 
-                            <p class="text-muted">
-                                Per Month
-                            </p>
+<p class="text-muted">
+    Per Month
+</p>
 
                         </div>
 
