@@ -195,8 +195,7 @@ if (!$lesson) {
             <span class="badge bg-primary mb-3">
                 Lesson <?php echo $lesson['lesson_order']; ?>
             </span>
-
-           <div class="d-flex justify-content-between align-items-center mb-3">
+<div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center gap-2 mb-3">
 
     <h2 class="mb-0">
         <?php echo htmlspecialchars($lesson['lesson_title']); ?>

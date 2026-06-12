@@ -436,10 +436,15 @@ $recentResults = mysqli_query(
                         <?php echo $recommendedLesson; ?>
 
                     </h5> 
-                    <a href="learning_hub.php" class="btn btn-primary me-3">Go to Learning Hub</a>
+                   <div class="d-flex flex-column flex-md-row gap-2">
+    <a href="learning_hub.php" class="btn btn-primary">
+        Go to Learning Hub
+    </a>
 
-                    <a href="ai_tutor.php" class="btn btn-primary">Go to Ai Tutor</a>
-
+    <a href="ai_tutor.php" class="btn btn-primary">
+        Go to AI Tutor
+    </a>
+</div>
 
                     
                 </div>

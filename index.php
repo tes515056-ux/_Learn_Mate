@@ -19,7 +19,8 @@
 
     </section><!-- /Hero Section -->
 
-   <section class="pricing py-5 bg-light">
+  
+<section class="pricing py-5 bg-light">
 
     <div class="container">
 
@@ -55,13 +56,13 @@
                                 Free
                             </h3>
 
-                            <h1 class="display-4 fw-bold" style="color:#10bc69;">
-                                $0
-                            </h1>
-
-                            <p class="text-muted">
-                                Perfect for getting started
-                            </p>
+                             <div class="text-center mb-4">
+    <div class="d-flex justify-content-center align-items-end">
+        <span class="fw-bold" style="font-size:3rem;color:#10bc69;">0</span>
+        <span class="ms-2 mb-2 fw-semibold text-muted">MMK</span>
+    </div>
+    <p class="text-muted">Perfect for getting started</p>
+</div>
 
                         </div>
 
@@ -84,12 +85,12 @@
 
                             <li class="mb-3">
                                 <i class="bi bi-check-circle-fill text-success me-2"></i>
-                                Limited AI Tutor Prompts Per Day
+                                Limited AI Tutor 15 Prompts Per Day
                             </li>
 
                             <li class="mb-3">
                                 <i class="bi bi-check-circle-fill text-success me-2"></i>
-                                Limited Quiz Attempts
+                                Limited Quiz 20 Attempts
                             </li>
 
                             <li class="mb-3 text-muted">
@@ -140,14 +141,13 @@
                                 Premium
                             </h3>
 
-                            <h1 class="display-4 fw-bold " style="color:#10bc69;">
-                                $4.99
-                            </h1>
-
-                            <p class="text-muted">
-                                Per Month
-                            </p>
-
+                         <div class="text-center mb-4">
+    <div class="d-flex justify-content-center align-items-end">
+        <span class="fw-bold" style="font-size:3rem;color:#10bc69;">25,000</span>
+        <span class="ms-2 mb-2 fw-semibold text-muted">MMK</span>
+    </div>
+    <p class="text-muted">Per Month</p>
+</div>
                         </div>
 
                         <ul class="list-unstyled">

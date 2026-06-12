@@ -264,7 +264,7 @@ $conn,
             type="text"
             id="subjectSearch"
             class="form-control"
-            placeholder="Search subjects..."
+            placeholder="Search category..."
         >
     </div>
 </div>
